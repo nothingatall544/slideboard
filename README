@@ -1,5 +1,22 @@
-Added README
+Things required for this project:
+Vagrant
+Virtual-box
+Any text editor
+
+Recommended for windows development:
+Sublime Text 2
+CMDER
 
 Versions:
 Ruby: 1.9.3
 Rails: 4.1
+
+TODO:
+Switch default shell to zsh
+Set up zsh
+Set up the blog
+Get hosting
+Get domain
+Card database
+Card image database
+Fix local git
