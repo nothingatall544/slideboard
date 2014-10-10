@@ -9,6 +9,7 @@ apt-get install -y sl
 apt-get install -y vim
 apt-get install -y curl
 apt-get install -y zsh
+apt-get install -y git
 
 curl -sSL https://get.rvm.io | bash -s $1
 source /usr/local/rvm/scripts/rvm
