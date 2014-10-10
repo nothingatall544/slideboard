@@ -22,4 +22,4 @@ rm -rf /var/www
 ln -fs /vagrant /var/www
 
 #setup terminal
-./bash.sh
+/var/www/bash.sh
